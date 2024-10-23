@@ -34,3 +34,12 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Excludem folderul node_modules (bibliotecile instalate)
+node_modules/
+
+# Excludem folderele de build pentru Next.js sau alte framework-uri
+.next/
+
+# Excludem fișierele log generate automat
+*.log

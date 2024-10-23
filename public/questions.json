@@ -1,0 +1,119 @@
+{
+  "restapi": {
+    "questions": [
+      {
+        "question": "Care este metoda HTTP folosita in principal pentru a obtine date de la un server? ",
+        "options": [
+          "POST",
+          "PUT",
+          "GET"
+        ],
+        "correctAnswer": "GET"
+      },
+      {
+        "question": "Ce reprezinta status code-ul 404 in contextul unui raspuns HTTP",
+        "options": [
+          "Resursa a fost creata cu succes. ",
+          "Resursa solicitata nu a fost gasita.",
+          "A aparut o eroare interna a serverului."
+        ],
+        "correctAnswer": "Resursa solicitata nu a fost gasita."
+      },
+      {
+        "question": "Ce este un endpoint intr-un API REST?",
+        "options": [
+          "Un server care gazduieste API-ul",
+          "Un URL specific care permite interactiunea cu o resursa.",
+          "Un format de date folosit pentru a reprezenta resursele."
+        ],
+        "correctAnswer": "Un URL specific care permite interactiunea cu o resursa."
+      },
+      {
+        "question": "Gata. Ai terminat chestionarul. Felicitari!",
+        "options": [],
+        "correctAnswer": ""
+      }
+    ]
+  },
+  "nextjs": {
+    "questions": [
+      {
+        "question": "Care este principalul avantaj al utilizarii Next.js in comparatie cu React traditional?",
+        "options": [
+          "Generarea statica a paginilor, imbunatatind performanta SEO.",
+          "Eliminarea completa a JavaScript-ului din aplicatie.",
+          "O mai mare complexitate in configurare."
+        ],
+        "correctAnswer": "Generarea statica a paginilor, imbunatatind performanta SEO."
+      },
+      {
+        "question": "Ce este un data fetching method in Next.js?",
+        "options": [
+          "O modalitate de a stiliza componentele.",
+          "O metoda de a aduce date pe o pagina, cum ar fi getStaticProps sau getServerSideProps.",
+          "Un instrument pentru depanarea aplicatiilor."
+        ],
+        "correctAnswer": "O metoda de a aduce date pe o pagina, cum ar fi getStaticProps sau getServerSideProps."
+      },
+      {
+        "question": "Care este diferenta principala intre getStaticProps si getServerSideProps?",
+        "options": [
+          "getStaticProps se executa la build time, iar getServerSideProps se executa la fiecare request.",
+          "getStaticProps este folosit doar pentru paginile dinamice.",
+          "Nu exista nici o diferenta semnificativa intre cele doua."
+        ],
+        "correctAnswer": "getStaticProps se executa la build time, iar getServerSideProps se executa la fiecare request."
+      },
+      {
+        "question": "Gata. Ai terminat chestionarul. Felicitari!",
+        "options": [],
+        "correctAnswer": ""
+      }
+    ]
+  },
+  "javascript": {
+    "questions": [
+      {
+        "question": "Ce tip de data este null in JavaScript?",
+        "options": [
+          "String",
+          "Object",
+          "Number"
+        ],
+        "correctAnswer": "Object"
+      },
+      {
+        "question": "Ce face functia console.log() in JavaScript?",
+        "options": [
+          "Afiseaza un mesaj de eroare in consola.",
+          "Afiseaza un mesaj in consola browserului.",
+          "Opreste executia scriptului."
+        ],
+        "correctAnswer": "Afiseaza un mesaj in consola browserului."
+      },
+      {
+        "question": "Ce este hoisting in JavaScript?",
+        "options": [
+          "Procesul de ridicare a elementelor HTML in DOM.",
+          "Comportamentul prin care declaratiile de variabile si functii sunt mutate in partea de sus a domeniului lor de aplicare.",
+          "O metoda de optimizare a codului."
+        ],
+        "correctAnswer": "Comportamentul prin care declaratiile de variabile si functii sunt mutate in partea de sus a domeniului lor de aplicare."
+      },
+      {
+        "question": "a",
+        "options": [
+          "a",
+          "b",
+          "c"
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "Gata. Ai terminat chestionarul. Felicitari!",
+        "options": [],
+        "correctAnswer": ""
+      }
+    ]
+  }
+}
